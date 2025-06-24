@@ -16,4 +16,5 @@
 我使用的ffmpeg版本为 N-109957-g373ef1c4fa-20230302，其他的版本未测试过
 
 #软件界面
-![软件界面](images/VideoTimeFactory.png)
+-----------
+![软件界面](VideoTimeFactory.png)
